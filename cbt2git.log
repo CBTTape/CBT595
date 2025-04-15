@@ -1,5 +1,5 @@
-2025-04-15 03:49:14.764471 - Received CBT.V508.FILE595.PDS from FILE595.XMI 
-2025-04-15 03:49:14.765566 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:49:14.765952 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/$$NOTE1
-2025-04-15 03:49:14.766153 - Found @FILE595.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/@FILE595
-2025-04-15 03:49:14.766492 - Found LABEL.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/LABEL
+2025-04-15 22:37:58.327891 - Received CBT.V508.FILE595.PDS from FILE595.XMI 
+2025-04-15 22:37:58.328715 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:37:58.328912 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/$$NOTE1
+2025-04-15 22:37:58.329001 - Found @FILE595.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/@FILE595
+2025-04-15 22:37:58.329347 - Found LABEL.txt (text/plain) in CBT.V508.FILE595.PDS, moved to PDS/LABEL
